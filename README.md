@@ -1,2 +1,2 @@
 # new-douban
-webpack4 + koa +
+webpack4 + koa + react

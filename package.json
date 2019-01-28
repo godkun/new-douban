@@ -1,0 +1,26 @@
+{
+  "name": "new-douban",
+  "version": "0.1.0",
+  "description": "webpack4 + koa + react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godkun/new-douban.git"
+  },
+  "keywords": [],
+  "author": "yangkun <godkun666@126.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/godkun/new-douban/issues"
+  },
+  "homepage": "https://github.com/godkun/new-douban#readme",
+  "devDependencies": {
+    "webpack": "^4.29.0"
+  },
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
