@@ -1,4 +1,6 @@
+// pm2 不熟脚本
 module.exports = {
+  // app 命令脚本
   apps: [{
     name: '',
     script: './start.js',
@@ -11,6 +13,7 @@ module.exports = {
       NODE_ENV: 'production'
     }
   }],
+  // 部署脚本
   deploy: {
     production: {
       user: 'godkun',

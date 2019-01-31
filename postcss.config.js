@@ -1,5 +1,5 @@
 module.exports = {
-  // 导出前缀插件
+  // 注册 postcss 系列插件
   plugins: [
     require('autoprefixer'),
     require('cssnext')
